@@ -2,8 +2,11 @@
 
 ## Individual Affiliate Program Detail Pages
 - [x] Create detail pages for more companies (Supademo, AI SVG Generator, etc.)
-- [ ] Add dynamic routing for all affiliate programs
-- [ ] Create reusable program detail component
+- [x] Add dynamic routing for all affiliate programs
+- [x] Create reusable program detail component
+- [x] Added detail pages for QR Code Developer, Friends of Normie, monday.com, Namecheap
+- [x] Created dynamic [slug] page for all remaining affiliate programs
+- [x] Implemented proper routing and fallback system
 
 ## Newsletter Subscription System
 - [x] Create subscription page with email collection
